@@ -3,6 +3,7 @@
 ## Introduction
 This project provide an abstraction and a sample implementation for **Synchonous Request-Reply Pattern over asynchronous backbone** in C#.Net6.  
 I also wrote an article in the following address that completely explains **Synchonous Request-Reply Pattern over asynchronous messaging services**:  
+https://www.linkedin.com/pulse/achieving-synchronous-communication-over-asynchronous-amir-doosti-nr0ff  
    
 ## Structure of soution
 The solution contains one Console App project which is written in Visual Studio.  
