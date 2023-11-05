@@ -1,7 +1,7 @@
 # RequestReply
 
 ## Introduction
-This project provide an abstraction and a sample implementation for ** Synchonous Request-Reply Pattern over asynchronous backbone** in C#.Net6.  
+This project provide an abstraction and a sample implementation for **Synchonous Request-Reply Pattern over asynchronous backbone** in C#.Net6.  
 I also wrote an article in the following address that completely explains **Synchonous Request-Reply Pattern over asynchronous messaging services**:  
    
 ## Structure of soution
